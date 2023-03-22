@@ -24,12 +24,14 @@ https://drive.google.com/file/d/13e9PxudRNwOWapecnioxitrNACSq_MjY/view?usp=shari
 
 ## Installation
 
-Clone the repo & run npm install
-  1 cd db 
-  2 log into the mysql shell and run SOURCE schema.sql 
-  3 cd ..
-  4 npm run seed 
-  5 node server.js
+  - Clone the repo
+  - run npm install
+  - cd into db 
+  - log into the mysql shell and run SOURCE schema.sql 
+  - Exit
+  - cd ..
+  - npm run seed 
+  - node server.js
 
 ## Contributing
 
